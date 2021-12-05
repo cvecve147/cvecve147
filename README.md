@@ -1,6 +1,6 @@
-# Hi 我是 Yu_jax
+# Hi 我是 Jax
 
-## 我是一名開發者
+## 學習歷程
 
 - 對於前端框架有一些興趣
 - 使用過的語言 C、C++、Python、Java、JavaScript、Dart、Shell Script、Dart、Flutter
