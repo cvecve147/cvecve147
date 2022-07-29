@@ -12,6 +12,7 @@
   - Amazon KDD Cup 22 ESCI Challenge for Improving Product Search Task 3 13名
   
 - 大學
+  - ICIM 以醫療照護物聯網為基礎之室內定位服務系統
   - 2020第25屆全國大專校院資訊應用服務創新競賽 產學合作組第三名
   - 2020 ITSA 75屆 程式能力線上自我評量 程式能力證明
   - 2019第24屆全國大專校院資訊應用服務創新競賽 產學合作組第三名
