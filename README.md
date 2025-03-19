@@ -11,10 +11,11 @@
 
 ## 🛠 技術棧
 
-- **前端**: HTML, CSS, Vue.js, TypeScript
-- **後端**: PHP, Java Socket, NestJS
-- **資料庫**: MySQL, SQLite, MongoDB
-- **其他**: Docker, Hadoop, Android Studio, Flutter
+- **前端**: Vue.js, VueRouter, VueX, Pinia, i18n, Ajax, Web Socket  
+- **後端**: FastAPI, Redis, Nginx Proxy Manager  
+- **資料庫**: MySQL, SQLite, MongoDB, Postgresql  
+- **AI**: PyTorch, LLM, Diffusion, NLP  
+- **其他**: Python, Machine Learning, Linux, Docker, Docker Compose, Cloudflare, Uptime Kuma, Google Cloud, AWS Cloud, DigitalOcean, Github CI/CD, Github Pages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvecve147&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
